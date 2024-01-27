@@ -1,0 +1,30 @@
+#earth {
+    text-align: center;
+    background-color: aquamarine;
+    font-size: larger;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid brown
+    
+}
+#sun {
+    text-align: center;
+    font-size: larger;
+    background-color: purple;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid mistyrose
+    
+}
+#ipsum {
+    background-color: chocolate;
+    padding: 25px;
+    margin: 10px
+
+}
+span {
+    background-color: cadetblue;
+    padding-bottom: 25px;
+    border-color: beige;
+    margin-inline-end: 30px;
+}

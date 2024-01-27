@@ -1,0 +1,25 @@
+div {
+    color: grey;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: larger;
+    padding: 10px;
+    border: 10px;
+    margin: 30px;
+
+}
+body{
+    background-color: antiquewhite;
+
+}
+span {
+    color: teal;
+    text-align: center;
+    padding: 15px;
+    border: 20px;
+    margin: 30px;
+}
+form{
+    text-align: center;
+    font-size: larger;
+}
